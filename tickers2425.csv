@@ -1,0 +1,558 @@
+IPO Date,Symbol,Company Name,IPO price,Current,Return
+01/09/24,ROMA,Roma Green Finance Limited,$4.00,$2.43,-39.25%
+01/11/24,SDHC,Smith Douglas Homes Corp.,$21.00,$21.87,4.14%
+01/12/24,SYNX,Silynxcom Ltd.,$4.00,$1.03,-74.25%
+01/18/24,CCTG,CCSC Technology International Holdings Limited,$6.00,$0.19,-96.90%
+01/18/24,PSBD,Palmer Square Capital BDC Inc.,$16.45,$12.13,-26.26%
+01/19/24,JVSA,JVSPAC Acquisition Corp.,$10.00,$3.64,-59.50%
+01/19/24,KSPI,Joint Stock Company Kaspi.kz,$92.00,$76.77,-16.55%
+01/24/24,JL,J-Long Group Limited,$5.00,$5.90,18.00%
+01/24/24,SUGP,SU Group Holdings Limited,$4.00,$5.88,47.00%
+01/25/24,CGON,"CG Oncology, Inc.",$19.00,$41.61,119.00%
+01/25/24,YIBO,Planet Image International Limited,$4.00,$1.18,-70.50%
+01/26/24,AVBP,"ArriVent BioPharma, Inc.",$18.00,$24.32,35.11%
+01/26/24,BTSG,"BrightSpring Health Services, Inc.",$13.00,$35.90,176.15%
+01/26/24,HAO,Haoxi Health Technology Limited,$4.00,$1.06,-73.64%
+01/31/24,FBLG,"FibroBiologics, Inc.",$30.00,$0.35,-98.84%
+02/01/24,AS,"Amer Sports, Inc.",$13.00,$39.36,202.77%
+02/02/24,ANRO,"Alto Neuroscience, Inc.",$16.00,$14.68,-8.25%
+02/02/24,GUTS,"Fractyl Health, Inc.",$15.00,$2.30,-84.67%
+02/06/24,LEGT,Legato Merger Corp. III,$10.00,$10.82,8.20%
+02/07/24,AHR,"American Healthcare REIT, Inc.",$12.00,$46.70,289.17%
+02/08/24,KYTX,"Kyverna Therapeutics, Inc.",$22.00,$8.36,-62.00%
+02/08/24,PMNT,Perfect Moment Ltd.,$6.00,$0.50,-91.67%
+02/09/24,HLXB,Helix Acquisition Corp. II,$10.00,$9.90,-1.00%
+02/09/24,MGX,"Metagenomi, Inc.",$15.00,$1.74,-88.40%
+02/09/24,TBBB,BBB Foods Inc.,$17.50,$33.49,91.37%
+02/09/24,TELO,"Telomir Pharmaceuticals, Inc.",$7.00,$1.48,-78.86%
+02/14/24,UMAC,"Unusual Machines, Inc.",$4.00,$10.88,172.00%
+02/16/24,CHRO,Pelthos Therapeutics Inc.,$6.00,$13.50,125.00%
+02/21/24,DYCQ,DT Cloud Acquisition Corporation,$10.00,$11.18,11.80%
+02/22/24,VHAI,Vocodia Holdings Corp,$4.25,$0.02,-99.57%
+02/27/24,SMXT,"SolarMax Technology, Inc.",$4.00,$0.94,-76.54%
+03/05/24,LGCL,Lucas GC Limited,$4.00,$2.56,-36.00%
+03/06/24,RYDE,Ryde Group Ltd,$4.00,$0.47,-88.28%
+03/20/24,ALAB,"Astera Labs, Inc.",$36.00,$173.70,382.50%
+03/20/24,INTJ,Intelligent Group Limited,$4.00,$0.61,-84.75%
+03/21/24,BKHA,Black Hawk Acquisition Corporation,$10.00,$11.50,15.00%
+03/21/24,LOBO,Lobo Technologies Ltd.,$4.00,$0.88,-78.06%
+03/21/24,RDDT,"Reddit, Inc.",$34.00,$233.54,586.88%
+03/22/24,AUNA,Auna S.A.,$12.00,$4.71,-60.75%
+03/26/24,IBAC,IB Acquisition Corp.,$10.00,$10.45,4.50%
+03/28/24,BOLD,"Boundless Bio, Inc.",$16.00,$1.15,-92.81%
+03/28/24,MMA,Mixed Martial Arts Group Limited,$5.00,$1.31,-73.80%
+03/28/24,UBXG,U-BX Technology Ltd.,$5.00,$2.15,-57.00%
+04/02/24,MAMO,Massimo Group,$4.50,$4.16,-7.56%
+04/02/24,ZBAO,Zhibao Technology Inc.,$4.00,$0.92,-77.00%
+04/05/24,CTNM,"Contineum Therapeutics, Inc.",$16.00,$13.07,-18.31%
+04/10/24,MNDR,Mobile-health Network Solutions,$4.00,$1.40,-65.00%
+04/11/24,PACS,"PACS Group, Inc.",$21.00,$33.38,58.95%
+04/12/24,ULS,UL Solutions Inc.,$28.00,$78.00,178.57%
+04/16/24,TWG,Top Wealth Group Holding Limited,$4.00,$4.65,16.25%
+04/17/24,JUNE,Junee Limited,$4.00,$11.80,187.50%
+04/17/24,SUPX,SuperX AI Technology Limited,-,$19.51,-
+04/18/24,CDTG,CDT Environmental Technology Investment Holdings Limited,$4.00,$0.43,-89.25%
+04/18/24,CTRI,"Centuri Holdings, Inc.",$21.00,$27.39,30.43%
+04/18/24,IBTA,"Ibotta, Inc.",$88.00,$22.10,-74.89%
+04/18/24,MTEN,Mingteng International Corporation Inc.,$4.00,$0.96,-76.13%
+04/19/24,TRSG,Tungray Technologies Inc.,$4.00,$1.17,-70.75%
+04/22/24,MFI,mF International Limited,$5.00,$18.04,260.70%
+04/22/24,YYGH,YY Group Holding Limited,$4.00,$0.26,-93.64%
+04/23/24,NCI,Neo-Concept International Group Holdings Limited,$4.00,$1.24,-69.00%
+04/25/24,LOAR,Loar Holdings Inc.,$28.00,$71.37,154.89%
+04/25/24,MRX,Marex Group plc,$19.00,$38.85,104.47%
+04/25/24,RBRK,"Rubrik, Inc.",$32.00,$87.08,172.13%
+04/26/24,ZONE,"CleanCore Solutions, Inc.",$4.00,$0.33,-91.72%
+05/01/24,VIK,Viking Holdings Ltd,$24.00,$70.08,192.00%
+05/02/24,CCIX,Churchill Capital Corp IX,$10.00,$10.56,5.60%
+05/08/24,NNE,NANO Nuclear Energy Inc.,$4.00,$38.86,871.50%
+05/09/24,GPAT,GP-Act III Acquisition Corp.,$10.00,$10.66,6.60%
+05/09/24,PAL,"Proficient Auto Logistics, Inc.",$15.00,$10.23,-31.80%
+05/09/24,SVCO,"Silvaco Group, Inc.",$19.00,$4.40,-76.84%
+05/10/24,ZK,ZEEKR Intelligent Technology Holding Limited,$21.00,$26.80,27.62%
+05/14/24,BTOC,Armlogi Holding Corp.,$5.00,$0.70,-86.06%
+05/15/24,JDZG,JIADE Limited,$4.00,$1.40,-65.00%
+05/15/24,RAY,Raytech Holding Limited,$4.00,$1.71,-57.17%
+05/17/24,HDL,Super Hi International Holding Ltd.,$19.56,$17.35,-11.30%
+05/17/24,RFAI,RF Acquisition Corp II,$10.00,$10.72,7.20%
+05/23/24,BOW,Bowhead Specialty Holdings Inc.,$17.00,$27.22,60.12%
+05/31/24,NAKA,"Kindly MD, Inc.",-,$0.43,-
+06/06/24,FLYE,"Fly-E Group, Inc.",$4.00,$7.91,97.75%
+06/06/24,GAUZ,Gauzy Ltd.,$17.00,$1.20,-92.94%
+06/07/24,CHEB,Chenghe Acquisition II Co.,$10.00,$10.55,5.50%
+06/07/24,RAPP,"Rapport Therapeutics, Inc.",$17.00,$28.78,69.29%
+06/07/24,WAY,Waystar Holding Corp.,$21.50,$32.46,50.98%
+06/11/24,ALF,Centurion Acquisition Corp.,$10.00,$10.64,6.40%
+06/12/24,PCSC,Perceptive Capital Solutions Corp,$10.00,$12.45,24.50%
+06/14/24,TEM,"Tempus AI, Inc.",$37.00,$73.86,99.62%
+06/18/24,CUB,Lionheart Holdings,$10.00,$10.62,6.15%
+06/18/24,FSHP,Flag Ship Acquisition Corporation,$10.00,$10.78,7.80%
+06/18/24,MACI,Melar Acquisition Corp. I,$10.00,$10.60,6.00%
+06/21/24,RECT,Rectitude Holdings Ltd,$4.00,$1.95,-51.25%
+06/26/24,GRAF,Graf Global Corp.,$10.00,$10.68,6.80%
+06/27/24,TBN,Tamboran Resources Corporation,$24.00,$25.76,7.33%
+06/27/24,WBTN,WEBTOON Entertainment Inc.,$21.00,$12.95,-38.33%
+06/28/24,ALMS,Alumis Inc.,$16.00,$11.61,-27.44%
+06/28/24,LB,LandBridge Company LLC,$17.00,$56.50,232.35%
+06/28/24,LSH,Lakeside Holding Limited,$4.50,$0.72,-84.08%
+07/02/24,EHGO,Eshallgo Inc.,$4.00,$0.28,-93.13%
+07/02/24,EURK,Eureka Acquisition Corp,$10.00,$11.08,10.80%
+07/10/24,SIMA,SIM Acquisition Corp. I,$10.00,$10.56,5.60%
+07/12/24,ICON,Icon Energy Corp.,$4.00,$0.74,-81.51%
+07/12/24,LPAA,Launch One Acquisition Corp.,$10.00,$10.56,5.60%
+07/18/24,ARDT,"Ardent Health, Inc.",$16.00,$8.73,-45.44%
+07/18/24,TWFG,"TWFG, Inc.",$17.00,$28.71,68.88%
+07/19/24,ARTV,"Artiva Biotherapeutics, Inc.",$12.00,$3.14,-73.83%
+07/19/24,QMMM,QMMM Holdings Limited,$4.00,$119.40,2885.00%
+07/23/24,ZDAI,"DirectBooking Technology Co., Ltd.",-,$0.31,-
+07/24/24,BLMZ,Harrison Global Holdings Inc.,$4.30,$0.37,-91.40%
+07/24/24,OS,"OneStream, Inc.",$20.00,$18.06,-9.70%
+07/25/24,CON,"Concentra Group Holdings Parent, Inc.",$23.50,$19.88,-15.40%
+07/25/24,DTSQ,DT Cloud Star Acquisition Corporation,$10.00,$10.80,8.00%
+07/25/24,LINE,"Lineage, Inc.",$78.00,$36.94,-52.64%
+07/25/24,ORKT,Orangekloud Technology Inc.,$4.75,$1.16,-75.58%
+07/26/24,NIPG,NIP Group Inc.,$9.00,$1.12,-87.56%
+08/01/24,AAM,AA Mission Acquisition Corp.,$10.00,$10.61,6.10%
+08/01/24,MBAV,M3-Brigade Acquisition V Corp.,$10.00,$10.89,8.90%
+08/01/24,OSTX,OS Therapies Incorporated,$4.00,$2.03,-49.25%
+08/07/24,EQV,EQV Ventures Acquisition Corp.,$10.00,$10.46,4.55%
+08/09/24,VACH,Voyager Acquisition Corp.,$10.00,$10.56,5.60%
+08/13/24,ACTU,"Actuate Therapeutics, Inc.",$8.00,$7.39,-7.63%
+08/13/24,CEP,"Cantor Equity Partners, Inc.",$10.00,$14.27,1.00%
+08/16/24,HOND,HCM II Acquisition Corp.,$10.00,$18.04,80.40%
+08/16/24,SBXD,SilverBox Corp IV,$10.00,$10.55,5.50%
+08/16/24,YXT,YXT.COM Group Holding Limited,$11.00,$0.88,-92.04%
+08/23/24,RITR,Reitar Logtech Holdings Limited,$4.00,$1.06,-73.50%
+08/23/24,WOK,WORK Medical Technology Group LTD,$4.00,$0.17,-95.80%
+08/27/24,JBDI,JBDI Holdings Limited,$5.00,$0.89,-82.28%
+08/28/24,AZI,Autozi Internet Technology (Global) Ltd.,$4.00,$0.04,-99.07%
+08/28/24,BSII,Black Spade Acquisition II Co,$10.00,$9.99,-0.10%
+08/28/24,SPAI,Safe Pro Group Inc.,$5.00,$4.15,-17.00%
+08/29/24,GIG,GigCapital7 Corp.,$10.00,$10.50,5.00%
+09/05/24,PMAX,Powell Max Limited,$4.00,$2.71,-32.25%
+09/05/24,PTHL,Pheton Holdings Ltd,$4.00,$0.55,-86.14%
+09/06/24,POLE,Andretti Acquisition Corp. II,$10.00,$10.52,5.20%
+09/06/24,VCIC,Vine Hill Capital Investment Corp.,$10.00,$10.65,6.50%
+09/10/24,TDTH,Trident Digital Tech Holdings Ltd,$5.00,$0.57,-88.63%
+09/10/24,XCH,XCHG Limited,$6.20,$1.19,-80.76%
+09/12/24,FVN,Future Vision II Acquisition Corp.,$10.00,$10.58,5.80%
+09/12/24,GLXG,Galaxy Payroll Group Limited,$4.00,$3.13,-21.75%
+09/13/24,BCAX,Bicara Therapeutics Inc.,$18.00,$18.85,4.72%
+09/13/24,MBX,"MBX Biosciences, Inc.",$16.00,$28.43,77.69%
+09/13/24,ZBIO,"Zenas BioPharma, Inc.",$17.00,$40.21,136.53%
+09/16/24,IBO,Impact BioMedical Inc.,$3.00,$0.49,-83.73%
+09/16/24,KAPA,"Kairos Pharma, Ltd.",$4.00,$0.81,-79.75%
+09/18/24,YHNA,YHN Acquisition I Limited,$10.00,$10.63,6.29%
+09/20/24,CAPN,Cayson Acquisition Corp,$10.00,$10.63,6.32%
+09/20/24,GLE,Global Engine Group Holding Limited,$4.00,$0.44,-89.08%
+09/25/24,PC,Premium Catering (Holdings) Limited,$4.75,$9.40,97.90%
+09/26/24,BIOA,"BioAge Labs, Inc.",$18.00,$12.75,-29.17%
+09/26/24,BKV,BKV Corporation,$18.00,$28.82,60.11%
+09/26/24,GRDN,"Guardian Pharmacy Services, Inc.",$14.00,$31.17,122.64%
+09/26/24,IBG,Innovation Beverage Group Limited,$4.00,$2.55,-36.25%
+09/26/24,LGCY,Legacy Education Inc.,$4.00,$10.80,170.00%
+09/30/24,ZJK,"ZJK Industrial Co., Ltd.",$5.00,$2.44,-51.20%
+10/01/24,HTLM,HomesToLife Ltd.,$4.00,$2.98,-25.50%
+10/02/24,FVR,"FrontView REIT, Inc.",$19.00,$15.01,-21.00%
+10/02/24,SARO,"StandardAero, Inc.",$24.00,$27.51,14.63%
+10/02/24,WCT,Wellchange Holdings Company Limited,$4.00,$0.22,-94.63%
+10/04/24,CBNA,"Chain Bridge Bancorp, Inc.",$22.00,$35.50,61.36%
+10/04/24,FLX,BingEx Limited,$16.50,$3.25,-80.30%
+10/08/24,LPBB,Launch Two Acquisition Corp.,$10.00,$10.46,4.60%
+10/08/24,SKK,SKK Holdings Limited,$4.00,$0.32,-92.11%
+10/09/24,CLIK,Click Holdings Limited,$4.00,$5.72,43.00%
+10/09/24,KLC,"KinderCare Learning Companies, Inc.",$24.00,$4.62,-80.75%
+10/11/24,CAMP,Camp4 Therapeutics Corporation,$11.00,$6.01,-45.36%
+10/11/24,CBLL,"CeriBell, Inc.",$17.00,$20.41,20.06%
+10/11/24,CCIR,Cohen Circle Acquisition Corp. I,$10.00,$12.70,27.00%
+10/11/24,RDAC,Rising Dragon Acquisition Corp.,$10.00,$9.66,-3.40%
+10/11/24,STFS,Star Fashion Culture Holdings Limited,-,$0.13,-
+10/11/24,UPB,"Upstream Bio, Inc.",$17.00,$27.47,61.59%
+10/15/24,SFHG,Samfine Creation Holdings Group Limited,$4.00,$0.67,-83.38%
+10/16/24,PTLE,PTL Limited,$4.00,$0.14,-96.45%
+10/17/24,ORIS,Oriental Rise Holdings Limited,$4.00,$0.12,-96.93%
+10/17/24,SPHL,Springview Holdings Ltd,$4.00,$3.75,-6.25%
+10/22/24,ALDF,Aldel Financial II Inc.,$10.00,$10.50,5.00%
+10/22/24,HUHU,HUHUTECH International Group Inc.,$4.00,$11.67,191.75%
+10/23/24,FGL,Founder Group Limited,$4.00,$0.34,-91.44%
+10/23/24,LBGJ,Li Bang International Corporation Inc.,$4.00,$0.68,-83.01%
+10/23/24,ROLR,"High Roller Technologies, Inc.",$8.00,$1.77,-77.88%
+10/23/24,SAG,SAG Holdings Limited,$8.00,$1.01,-87.38%
+10/24/24,BEAG,Bold Eagle Acquisition Corp.,$10.00,$10.61,6.10%
+10/24/24,CHAR,Charlton Aria Acquisition Corporation,$10.00,$10.45,4.50%
+10/24/24,INGM,Ingram Micro Holding Corporation,$22.00,$23.22,5.55%
+10/24/24,OACC,Oaktree Acquisition Corp. III Life Sciences,$10.00,$10.58,5.80%
+10/25/24,SEPN,"Septerna, Inc.",$18.00,$26.21,45.61%
+10/25/24,WRD,WeRide Inc.,$15.50,$8.92,-42.45%
+10/29/24,GELS,Gelteq Limited,$4.00,$1.09,-72.75%
+10/29/24,PLRZ,Polyrizon Ltd.,$4.38,$12.41,183.22%
+11/01/24,BACQ,Inflection Point Acquisition Corp. IV,$10.00,$10.90,9.00%
+11/01/24,NTWO,Newbury Street II Acquisition Corp,$10.00,$10.41,4.05%
+11/07/24,GSRT,GSR III Acquisition Corp.,$10.00,$15.52,55.20%
+11/08/24,ASPC,A SPAC III Acquisition Corp.,$10.00,$13.00,30.00%
+11/08/24,WLAC,Willow Lane Acquisition Corp.,$10.00,$11.44,14.40%
+11/15/24,HSPT,Horizon Space Acquisition II Corp.,$10.00,$10.58,5.80%
+11/21/24,ETHM,Dynamix Corporation,$10.00,$10.40,4.00%
+11/21/24,NOEM,CO2 Energy Transition Corp.,$10.00,$10.37,3.70%
+11/22/24,IPST,"Heritage Distilling Holding Company, Inc.",$4.00,$6.28,57.00%
+11/22/24,MSW,Ming Shing Group Holdings Limited,$5.50,$1.32,-76.00%
+11/26/24,CGTL,Creative Global Technology Holdings Limited,$4.00,$1.14,-71.50%
+11/26/24,FACT,FACT II Acquisition Corp,$10.00,$10.37,3.70%
+11/26/24,WYHG,Wing Yip Food Holdings Group Limited,$4.00,$0.84,-79.08%
+11/27/24,BRIA,BrilliA Inc,$4.00,$1.73,-56.75%
+11/27/24,GRO,Brazil Potash Corp.,$15.00,$2.19,-85.40%
+11/27/24,PONY,Pony AI Inc.,$13.00,$15.17,16.69%
+11/27/24,VENU,Venu Holding Corporation,$10.00,$8.85,-11.50%
+12/03/24,JUNS,"Jupiter Neurosciences, Inc.",$4.00,$1.18,-70.50%
+12/04/24,TAVI,Tavia Acquisition Corp.,$10.00,$10.41,4.10%
+12/05/24,LNKS,Linkers Industries Limited,$4.00,$0.34,-91.50%
+12/05/24,SPHA,Shepherd Ave Capital Acquisition Corporation,$10.00,$10.13,1.30%
+12/05/24,ZSPC,"zSpace, Inc.",$5.00,$0.61,-87.91%
+12/06/24,NAMI,Jinxin Technology Holding Company,$4.00,$0.88,-77.98%
+12/10/24,JACS,Jackson Acquisition Company II,$10.00,$10.43,4.30%
+12/12/24,TTAN,"ServiceTitan, Inc.",$71.00,$106.03,49.34%
+12/13/24,AVR,Anteris Technologies Global Corp.,$6.00,$5.25,-12.50%
+12/13/24,DRDB,Roman DBDR Acquisition Corp. II,$10.00,$10.45,4.50%
+12/13/24,MLAC,Mountain Lake Acquisition Corp.,$10.00,$10.43,4.30%
+12/13/24,NTCL,NetClass Technology Inc,$5.00,$0.81,-83.78%
+12/18/24,NCEW,New Century Logistics (BVI) Limited,$4.00,$4.31,7.75%
+12/18/24,YSXT,"YSX Tech. Co., Ltd",$4.00,$1.45,-63.75%
+12/19/24,LSE,"Leishen Energy Holding Co., Ltd.",$4.00,$4.88,22.00%
+12/20/24,RANG,Range Capital Acquisition Corp.,$10.00,$10.40,4.00%
+12/20/24,YAAS,Youxin Technology Ltd,$4.50,$1.66,-63.11%
+12/23/24,HIT,"Health In Tech, Inc.",$4.00,$1.06,-73.50%
+12/23/24,TDAC,Translational Development Acquisition Corp.,$10.00,$10.46,4.60%
+12/27/24,BYAH,"Park Ha Biological Technology Co., Ltd.",-,$0.22,-
+12/31/24,ONEG,OneConstruction Group Limited,$4.00,$1.22,-69.50%
+01/02/25,INLF,INLIF Limited,$4.00,$0.59,-85.29%
+01/07/25,CEPO,"Cantor Equity Partners I, Inc.",$10.00,$10.54,5.40%
+01/07/25,ZYBT,Zhengye Biotechnology Holding Limited,$4.00,$2.03,-49.25%
+01/08/25,MASK,3 E Network Technology Group Limited,$4.00,$0.30,-92.44%
+01/10/25,MIMI,Mint Incorporation Limited,$4.00,$0.44,-89.09%
+01/14/25,UFG,Uni-Fuels Holdings Limited,$4.00,$1.04,-74.00%
+01/15/25,HKPD,Hong Kong Pharma Digital Technology Holdings Limited,$4.00,$0.80,-80.03%
+01/15/25,PLMK,Plum Acquisition Corp. IV,$10.00,$10.42,4.20%
+01/15/25,RIBB,Ribbon Acquisition Corp.,$10.00,$10.35,3.45%
+01/16/25,FLOC,Flowco Holdings Inc.,$24.00,$18.92,-21.17%
+01/16/25,PCLA,PicoCELA Inc.,$4.00,$0.27,-93.37%
+01/17/25,HVII,Hennessy Capital Investment Corp. VII,$10.00,$10.32,3.20%
+01/22/25,DGNX,Diginex Limited,$4.10,$8.50,107.32%
+01/22/25,DXST,Decent Holding Inc.,$4.00,$1.41,-64.75%
+01/22/25,MCTR,CTRL Group Limited,$4.00,$0.97,-75.59%
+01/22/25,TOPP,Toppoint Holdings Inc.,$4.00,$1.09,-72.75%
+01/23/25,COLA,Columbus Acquisition Corp,$10.00,$10.36,3.59%
+01/23/25,SKBL,Skyline Builders Group Holding Limited,$4.00,$2.93,-26.75%
+01/24/25,AAPG,Ascentage Pharma Group International,$17.25,$29.99,73.86%
+01/24/25,VG,"Venture Global, Inc.",$25.00,$6.24,-75.04%
+01/28/25,DMAA,Drugs Made In America Acquisition Corp.,$10.00,$10.36,3.60%
+01/28/25,SFD,"Smithfield Foods, Inc.",$20.00,$22.11,10.55%
+01/29/25,FGMC,FG Merger II Corp.,$10.00,$10.02,0.20%
+01/30/25,BBNX,"Beta Bionics, Inc.",$17.00,$29.31,72.41%
+01/30/25,SVCC,Stellar V Capital Corp.,$10.00,$10.36,3.60%
+01/31/25,INR,"Infinity Natural Resources, Inc.",$20.00,$14.42,-27.90%
+01/31/25,MAZE,"Maze Therapeutics, Inc.",$16.00,$39.54,147.13%
+01/31/25,MTSR,"Metsera, Inc.",$18.00,$70.50,291.67%
+02/05/25,CJMB,Callan JMB Inc.,$4.00,$1.81,-54.75%
+02/05/25,HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd",$4.00,$0.38,-90.47%
+02/05/25,KFII,K&F Growth Acquisition Corp. II,$10.00,$10.31,3.10%
+02/05/25,PLUT,Plutus Financial Group Limited,$4.00,$3.40,-15.00%
+02/06/25,EPWK,EPWK Holdings Ltd.,$4.10,$1.14,-72.20%
+02/06/25,FBGL,FBS Global Limited,$4.50,$0.86,-80.89%
+02/07/25,SION,"Sionna Therapeutics, Inc.",$18.00,$41.70,131.67%
+02/07/25,TTAM,Titan America SA,$16.00,$16.92,5.75%
+02/11/25,ATII,Archimedes Tech SPAC Partners II Co.,$10.00,$10.38,3.80%
+02/12/25,AGH,Aureus Greenway Holdings Inc.,$4.00,$4.09,2.25%
+02/13/25,AACB,Artius II Acquisition Inc.,$10.00,$10.29,2.90%
+02/13/25,AARD,"Aardvark Therapeutics, Inc.",$16.00,$15.61,-2.44%
+02/13/25,IPEX,Inflection Point Acquisition Corp. V,-,$10.29,-
+02/13/25,KRMN,Karman Holdings Inc.,$22.00,$69.37,215.32%
+02/13/25,SAIL,"SailPoint, Inc.",$23.00,$21.74,-5.48%
+02/13/25,XHLD,"TEN Holdings, Inc.",$6.00,$2.65,-55.83%
+02/14/25,NPB,"Northpointe Bancshares, Inc.",$14.50,$17.49,20.62%
+02/19/25,NNNN,Anbio Biotechnology,$5.00,$29.21,484.20%
+02/21/25,WGRX,"Wellgistics Health, Inc.",$4.50,$0.62,-86.23%
+02/25/25,BMGL,Basel Medical Group Ltd,$4.00,$0.71,-82.38%
+02/26/25,STAK,STAK Inc.,$4.00,$0.46,-88.55%
+02/27/25,LUD,Luda Technology Group Limited,$4.00,$10.16,154.00%
+02/27/25,LZMH,LZ Technology Holdings Limited,$4.00,$1.68,-58.00%
+02/27/25,RAC,Rithm Acquisition Corp.,$10.00,$10.39,3.90%
+02/27/25,WETO,Webus International Limited,$4.00,$0.94,-76.62%
+02/28/25,FERA,Fifth Era Acquisition Corp I,$10.00,$10.38,3.80%
+02/28/25,LOKV,Live Oak Acquisition Corp. V,$10.00,$10.25,2.50%
+02/28/25,NHIC,NewHold Investment Corp III,$10.00,$10.36,3.60%
+03/04/25,PN,Skycorp Solar Group Ltd,$4.00,$0.76,-81.13%
+03/06/25,ADVB,Advanced Biomed Inc.,$4.00,$0.37,-90.86%
+03/06/25,JFB,JFB Construction Holdings,$4.13,$15.26,269.49%
+03/06/25,KMTS,"Kestra Medical Technologies, Ltd.",$17.00,$24.91,46.53%
+03/06/25,TBH,"Brag House Holdings, Inc.",$4.00,$0.71,-82.36%
+03/07/25,MCRP,Micropolis Holding Company,$4.00,$1.26,-68.50%
+03/07/25,SAGT,Sagtec Global Limited,$4.00,$2.21,-44.85%
+03/13/25,MWYN,"Marwynn Holdings, Inc.",$4.00,$1.07,-73.25%
+03/18/25,QSEA,Quartzsea Acquisition Corporation,$10.00,$10.21,2.10%
+03/21/25,BIYA,Baiya International Group Inc.,$4.00,$0.24,-94.13%
+03/21/25,GSHR,Gesher Acquisition Corp. II,$10.00,$10.26,2.60%
+03/21/25,RCT,RedCloud Holdings plc,$4.50,$1.69,-62.44%
+03/25/25,LGPS,LogProstyle Inc.,$5.00,$1.03,-79.39%
+03/26/25,EPSM,Epsium Enterprise Limited,$4.00,$2.87,-28.25%
+03/27/25,WFF,WF Holding Limited,$4.00,$0.52,-86.94%
+03/28/25,CRWV,"CoreWeave, Inc.",$40.00,$87.38,118.45%
+03/28/25,NCT,Intercont (Cayman) Limited,$7.00,$0.45,-93.57%
+03/31/25,NMAX,Newsmax Inc.,$10.00,$10.03,0.30%
+03/31/25,UYSC,UY Scuti Acquisition Corp.,$10.00,$10.25,2.50%
+04/01/25,ENGS,Energys Group Limited,$4.50,$0.74,-83.66%
+04/01/25,SDHI,Siddhi Acquisition Corp.,$10.00,$10.23,2.30%
+04/01/25,WTF,Waton Financial Limited,$4.00,$3.23,-19.25%
+04/01/25,WXM,WF International Limited,$4.00,$0.62,-84.63%
+04/02/25,SMA,"SmartStop Self Storage REIT, Inc.",$30.00,$33.16,10.53%
+04/02/25,SORA,AsiaStrategy,-,$3.87,-
+04/02/25,SZZL,Sizzle Acquisition Corp. II,$10.00,$10.18,1.80%
+04/03/25,LHSW,Lianhe Sowell International Group Ltd,$4.00,$0.91,-77.23%
+04/04/25,BLIV,BeLive Holdings,$4.00,$3.42,-14.50%
+04/08/25,FATN,"FatPipe, Inc.",$5.75,$2.66,-53.74%
+04/08/25,RYET,Ruanyun Edai Technology Inc.,$4.00,$1.10,-72.50%
+04/09/25,TACH,Titan Acquisition Corp,$10.00,$10.30,2.95%
+04/10/25,ATHR,"Aether Holdings, Inc.",$4.30,$6.45,50.00%
+04/10/25,CUPR,Cuprina Holdings (Cayman) Limited,$4.00,$0.50,-87.63%
+04/10/25,IOTR,iOThree Limited,$4.00,$2.67,-33.25%
+04/10/25,MB,MasterBeef Group,$4.00,$6.50,62.50%
+04/15/25,HXHX,Haoxin Holdings Limited,$4.00,$0.45,-88.70%
+04/17/25,CHA,Chagee Holdings Limited,$28.00,$13.71,-51.04%
+04/17/25,EDHL,Everbright Digital Holding Limited,$4.00,$0.68,-82.91%
+04/21/25,TMDE,TMD Energy Limited,$3.25,$0.71,-78.19%
+04/22/25,CIGL,Concorde International Group Ltd.,$4.00,$2.04,-49.00%
+04/22/25,PFAI,Pinnacle Food Group Limited,$4.00,$2.28,-43.00%
+04/23/25,TVA,Texas Ventures Acquisition III Corp,$10.00,$10.53,5.30%
+04/24/25,NPAC,New Providence Acquisition Corp. III,$10.00,$10.25,2.50%
+04/25/25,CHAC,Crane Harbor Acquisition Corp.,$10.00,$10.96,9.60%
+04/25/25,IPCX,Inflection Point Acquisition Corp. III,$10.00,$10.13,1.30%
+04/25/25,PHOE,Phoenix Asia Holdings Limited,$4.00,$17.10,327.50%
+04/29/25,DAAQ,Digital Asset Acquisition Corp.,$10.00,$10.17,1.70%
+04/29/25,RAAQ,Real Asset Acquisition Corp.,$10.00,$10.24,2.40%
+04/30/25,LCCC,Lakeshore Acquisition III Corp.,$10.00,$10.17,1.70%
+04/30/25,TACO,Berto Acquisition Corp.,$10.00,$10.13,1.30%
+04/30/25,YB,Yuanbao Inc.,$15.00,$20.60,37.33%
+05/01/25,COPL,Copley Acquisition Corp,$10.00,$10.24,2.40%
+05/01/25,RDAG,Republic Digital Acquisition Company,$10.00,$10.18,1.75%
+05/02/25,CEPT,"Cantor Equity Partners II, Inc.",$10.00,$10.80,8.00%
+05/02/25,CGCT,Cartesian Growth Corporation III,$10.00,$10.11,1.10%
+05/02/25,GTEN,"Gores Holdings X, Inc.",$10.00,$10.33,3.30%
+05/02/25,SDM,Smart Digital Group Limited,$4.00,$1.85,-53.75%
+05/07/25,IPOD,Dune Acquisition Corporation II,$10.00,$10.22,2.20%
+05/08/25,AHL,Aspen Insurance Holdings Limited,$30.00,$37.10,23.67%
+05/08/25,AII,"American Integrity Insurance Group, Inc.",$16.00,$20.27,26.69%
+05/09/25,APUS,"Apimeds Pharmaceuticals US, Inc.",$4.00,$2.08,-48.00%
+05/09/25,EGHA,EGH Acquisition Corp.,$10.00,$10.14,1.40%
+05/13/25,OMSE,OMS Energy Technologies Inc.,$9.00,$4.61,-48.78%
+05/13/25,PMTR,Perimeter Acquisition Corp. I,$10.00,$10.26,2.60%
+05/14/25,ANTA,Antalpha Platform Holding Company,$12.80,$10.17,-20.55%
+05/14/25,CCCX,Churchill Capital Corp X,$10.00,$14.68,46.80%
+05/14/25,ETOR,eToro Group Ltd.,$52.00,$39.27,-24.48%
+05/15/25,RTAC,Renatus Tactical Acquisition Corp I,$10.00,$10.66,6.60%
+05/15/25,TVAI,Thayer Ventures Acquisition Corporation II,$10.00,$10.12,1.20%
+05/16/25,CCCM,Columbus Circle Capital Corp I,$10.00,$11.13,13.50%
+05/16/25,WENN,Wen Acquisition Corp,$10.00,$10.11,1.10%
+05/21/25,AACI,Armada Acquisition Corp. II,$10.00,$10.29,2.90%
+05/21/25,OFAL,OFA Group,$4.50,$0.76,-83.04%
+05/21/25,PCAP,ProCap Acquisition Corp,$10.00,$10.17,1.65%
+05/22/25,HNGE,"Hinge Health, Inc.",$32.00,$49.79,55.59%
+05/22/25,MNTN,"MNTN, Inc.",$16.00,$12.96,-19.00%
+05/22/25,OYSE,Oyster Enterprises II Acquisition Corp,$10.00,$10.15,1.50%
+05/23/25,CRA,Cal Redwood Acquisition Corp.,$10.00,$8.04,-19.60%
+05/23/25,FTRK,Fast Track Group,$4.00,$0.82,-79.52%
+05/23/25,PELI,Pelican Acquisition Corporation,$10.00,$10.15,1.50%
+05/28/25,KCHV,Kochav Defense Acquisition Corp.,$10.00,$10.13,1.30%
+05/29/25,JENA,Jena Acquisition Corporation II,$10.00,$10.19,1.90%
+05/29/25,WTG,Wintergreen Acquisition Corp.,$10.00,$10.16,1.60%
+05/30/25,PTNM,Pitanium Limited,$4.00,$10.39,159.75%
+06/05/25,CRCL,"Circle Internet Group, Inc.",$31.00,$88.57,185.71%
+06/06/25,OMDA,"Omada Health, Inc.",$19.00,$15.41,-18.90%
+06/09/25,JEM,707 Cayman Holdings Limited,$4.00,$0.25,-93.88%
+06/10/25,BLUW,Blue Water Acquisition Corp. III,$10.00,$10.32,3.20%
+06/11/25,ASIC,Ategrity Specialty Insurance Company Holdings,$17.00,$19.41,14.18%
+06/11/25,VOYG,"Voyager Technologies, Inc.",$31.00,$28.34,-8.58%
+06/12/25,CHYM,"Chime Financial, Inc.",$27.00,$27.49,1.82%
+06/12/25,VNTG,Vantage Corp,$4.00,$0.89,-77.78%
+06/13/25,AIRO,"AIRO Group Holdings, Inc.",$10.00,$9.70,-3.00%
+06/13/25,BACC,Blue Acquisition Corp.,$10.00,$10.27,2.65%
+06/13/25,BSAA,BEST SPAC I Acquisition Corp.,$10.00,$10.11,1.10%
+06/18/25,AXIN,Axiom Intelligence Acquisition Corp 1,$10.00,$10.09,0.90%
+06/18/25,CAI,"Caris Life Sciences, Inc.",$21.00,$26.54,26.38%
+06/18/25,EGG,Enigmatig Limited,$5.00,$3.85,-23.00%
+06/18/25,PACH,Pioneer Acquisition I Corp,$10.00,$10.10,1.00%
+06/18/25,SLDE,"Slide Insurance Holdings, Inc.",$17.00,$18.34,7.88%
+06/24/25,HCHL,Happy City Holdings Limited,$5.00,$3.65,-27.00%
+06/25/25,FMFC,Kandal M Venture Limited,$4.00,$0.36,-90.99%
+06/25/25,LWAC,LightWave Acquisition Corp.,$10.00,$10.03,0.30%
+06/25/25,OBA,Oxley Bridge Acquisition Limited,$10.00,$10.02,0.20%
+06/26/25,CAEP,"Cantor Equity Partners III, Inc.",$10.00,$10.19,1.90%
+06/26/25,JCAP,"Jefferson Capital, Inc.",$15.00,$22.02,46.80%
+06/26/25,JLHL,Julong Holding Limited,$4.00,$4.05,1.25%
+06/27/25,FIGX,FIGX Capital Acquisition Corp.,$10.00,$10.07,0.70%
+06/27/25,YORK,Yorkville Acquisition Corp.,$10.00,$11.28,12.80%
+07/01/25,CCII,Cohen Circle Acquisition Corp. II,$10.00,$10.24,2.40%
+07/01/25,GRAN,Grande Group Limited,$5.00,$3.84,-23.20%
+07/01/25,INAC,Indigo Acquisition Corp.,$10.00,$10.04,0.40%
+07/01/25,NMP,NMP Acquisition Corp.,$10.00,$10.04,0.40%
+07/02/25,CV,"CapsoVision, Inc.",$5.00,$14.42,188.40%
+07/02/25,EMPG,Empro Group Inc.,$4.00,$17.36,334.00%
+07/02/25,EVAC,EQV Ventures Acquisition Corp. II,$10.00,$10.00,-
+07/02/25,ONCH,1RT Acquisition Corp.,$10.00,$10.22,2.20%
+07/02/25,ORIQ,Origin Investment Corp I,$10.00,$10.16,1.60%
+07/02/25,VNME,Vendome Acquisition Corporation I,$10.00,$10.07,0.70%
+07/07/25,MAMK,MaxsMaking Inc.,$4.00,$13.00,225.00%
+07/08/25,ANPA,Rich Sparkle Holdings Limited,$4.00,$20.46,411.60%
+07/08/25,MSGY,Masonglory Limited,$4.00,$2.73,-31.75%
+07/08/25,TLIH,Ten-League International Holdings Limited,$4.00,$0.43,-89.22%
+07/09/25,DLXY,Delixy Holdings Limited,$4.00,$0.89,-77.75%
+07/09/25,GTER,Globa Terra Acquisition Corporation,$10.00,$10.25,2.50%
+07/11/25,BMHL,Bluemount Holdings Limited,$4.00,$3.50,-12.50%
+07/15/25,SPEG,Silver Pegasus Acquisition Corp.,$10.00,$10.08,0.80%
+07/16/25,KMRK,K-TECH Solutions Company Limited,$4.00,$1.31,-67.29%
+07/16/25,MGRT,Mega Fortune Company Limited,$4.00,$4.77,19.32%
+07/16/25,SOCA,Solarius Capital Acquisition Corp.,$10.00,$10.10,1.00%
+07/17/25,LAWR,"Robot Consulting Co., Ltd.",$4.00,$3.75,-6.25%
+07/17/25,PAII,Pyrophyte Acquisition Corp. II,$10.00,$10.12,1.20%
+07/18/25,MJID,Majestic Ideal Holdings Ltd,$6.00,$1.24,-79.33%
+07/23/25,CARL,"Carlsmed, Inc.",$15.00,$13.12,-12.53%
+07/23/25,CRE,Cre8 Enterprise Limited,$4.00,$0.38,-90.51%
+07/23/25,NIQ,NIQ Global Intelligence plc,$21.00,$15.79,-24.81%
+07/23/25,TDIC,Dreamland Limited,$4.00,$0.29,-92.66%
+07/24/25,ARX,Accelerant Holdings,$21.00,$15.73,-25.10%
+07/24/25,LHAI,Linkhome Holdings Inc.,$4.00,$12.70,217.50%
+07/24/25,MH,"McGraw Hill, Inc.",$17.00,$17.20,1.18%
+07/30/25,AMBQ,"Ambiq Micro, Inc.",$24.00,$30.16,25.67%
+07/30/25,APAD,A Paradise Acquisition Corp.,$10.00,$10.08,0.80%
+07/30/25,YMAT,"J-Star Holding Co., Ltd.",$4.00,$0.81,-79.75%
+07/31/25,BCAR,D. Boral ARC Acquisition I Corp.,$10.00,$10.02,0.20%
+07/31/25,FIG,"Figma, Inc.",$33.00,$38.69,17.24%
+07/31/25,SI,"Shoulder Innovations, Inc.",$15.00,$14.94,-0.40%
+08/01/25,HCMA,HCM III Acquisition Corp.,$10.00,$10.10,1.00%
+08/06/25,CTW,CTW Cayman,$5.00,$2.05,-59.00%
+08/06/25,QUMS,Quantumsphere Acquisition Corporation,$10.00,$10.00,-
+08/07/25,FLY,Firefly Aerospace Inc.,$45.00,$23.51,-47.76%
+08/07/25,WYFI,"WhiteFiber, Inc.",$17.00,$18.66,9.77%
+08/08/25,DKI,Darkiris Inc.,$4.00,$0.43,-89.25%
+08/08/25,EFTY,"Etoiles Capital Group Co., Ltd",$4.00,$15.02,275.50%
+08/08/25,HTFL,"HeartFlow, Inc.",$19.00,$28.35,49.21%
+08/08/25,SSEA,Starry Sea Acquisition Corp,$10.00,$10.00,-
+08/12/25,HVMC,Highview Merger Corp.,$10.00,$10.05,0.50%
+08/12/25,MAGH,Magnitude International Ltd,$4.00,$6.76,69.00%
+08/12/25,MKLY,McKinley Acquisition Corporation,$10.00,$9.97,-0.30%
+08/13/25,BLSH,Bullish,$37.00,$45.38,22.65%
+08/14/25,BUUU,BUUU Group Limited,$4.00,$7.70,92.50%
+08/14/25,MIAX,"Miami International Holdings, Inc.",$23.00,$41.78,81.65%
+08/14/25,NSRX,Nasus Pharma Ltd.,$8.00,$6.50,-18.75%
+08/14/25,RYOJ,"rYojbaba Co., Ltd.",$4.00,$3.98,-0.50%
+08/15/25,NUTR,NusaTrip Incorporated,$4.00,$9.00,125.00%
+08/19/25,YMT,Yimutian Inc.,$4.10,$1.37,-66.59%
+08/21/25,CEPF,"Cantor Equity Partners IV, Inc.",$10.00,$10.34,3.40%
+08/21/25,ETS,Elite Express Holding Inc.,$4.00,$0.56,-86.00%
+08/26/25,CURX,Curanex Pharmaceuticals Inc,$4.00,$8.60,112.00%
+08/27/25,KOYN,"CSLM Digital Asset Acquisition Corp III, Ltd",$10.00,$9.93,-0.70%
+08/27/25,MBVI,M3-Brigade Acquisition Vi Corp.,$10.00,$10.03,0.30%
+08/28/25,ELOG,Eastern International Ltd.,$4.00,$1.84,-54.00%
+08/28/25,TGHL,The Growhub Limited,$4.00,$0.44,-88.93%
+08/28/25,THH,TryHard Holdings Limited,$4.00,$9.84,146.00%
+08/29/25,PMI,"Picard Medical, Inc.",$4.00,$2.47,-38.25%
+09/04/25,FCHL,Fitness Champs Holdings Limited,$4.00,$0.35,-91.28%
+09/04/25,GSRF,GSR IV Acquisition Corp.,$10.00,$9.97,-0.30%
+09/04/25,SVAC,Spring Valley Acquisition Corp. III,$10.00,$10.26,2.60%
+09/09/25,TLNC,Talon Capital Corp.,$10.00,$10.14,1.40%
+09/09/25,ZGM,Zenta Group Company Limited,$4.00,$2.74,-31.50%
+09/10/25,BLZR,Trailblazer Acquisition Corp.,$10.00,$10.06,0.60%
+09/10/25,KLAR,Klarna Group plc,$40.00,$32.33,-19.18%
+09/11/25,FIGR,"Figure Technology Solutions, Inc.",$25.00,$42.05,68.20%
+09/11/25,LBRX,LB Pharmaceuticals Inc,$15.00,$20.23,34.87%
+09/12/25,BRCB,"Black Rock Coffee Bar, Inc.",$20.00,$24.02,20.10%
+09/12/25,FOFO,"Hang Feng Technology Innovation Co., Ltd.",$4.00,$12.06,201.50%
+09/12/25,GEMI,"Gemini Space Station, Inc.",$28.00,$14.99,-46.46%
+09/12/25,LGN,Legence Corp.,$28.00,$45.80,63.57%
+09/12/25,OTGA,OTG Acquisition Corp. I,$10.00,$10.00,-
+09/12/25,VIA,"Via Transportation, Inc.",$46.00,$32.30,-29.78%
+09/16/25,CHEC,Chenghe Acquisition III Co.,$10.00,$9.96,-0.40%
+09/16/25,CHOW,ChowChow Cloud International Holdings Limited,$4.00,$1.12,-72.00%
+09/17/25,STUB,"StubHub Holdings, Inc.",$23.50,$14.52,-38.21%
+09/17/25,WBI,WaterBridge Infrastructure LLC,$20.00,$21.76,8.80%
+09/18/25,NTSK,"Netskope, Inc.",$19.00,$23.50,23.68%
+09/19/25,LATA,Galata Acquisition Corp. II,$10.00,$9.96,-0.40%
+09/19/25,PLTS,Platinum Analytics Cayman Limited,$4.00,$17.50,337.50%
+09/19/25,PTRN,Pattern Group Inc.,$14.00,$12.75,-8.93%
+09/25/25,DMII,Drugs Made In America Acquisition II Corp.,$10.00,$10.00,-
+09/25/25,EMIS,Emmis Acquisition Corp.,$10.00,$10.02,0.20%
+09/26/25,AEXA,American Exceptionalism Acquisition Corp. A,$10.00,$11.10,11.00%
+09/26/25,FCRS,FutureCrest Acquisition Corp.,$10.00,$10.11,1.10%
+09/26/25,MGN,Megan Holdings Limited,$4.00,$2.18,-45.50%
+09/29/25,KNRX,Knorex Ltd.,$4.00,$1.80,-55.00%
+09/30/25,APAC,StoneBridge Acquisition II Corporation,$10.00,$9.91,-0.90%
+09/30/25,BCSS,Bain Capital GSS Investment Corp.,$10.00,$10.10,1.00%
+09/30/25,BDCI,BTC Development Corp.,$10.00,$10.05,0.50%
+10/01/25,AGRZ,Agroz Inc.,$4.00,$2.20,-45.00%
+10/01/25,FRMI,Fermi Inc.,$21.00,$15.25,-27.38%
+10/01/25,KRSP,Rice Acquisition Corporation 3,$10.00,$10.36,3.60%
+10/01/25,NP,Neptune Insurance Holdings Inc.,$20.00,$27.46,37.30%
+10/01/25,YCY,AA Mission Acquisition Corp. II,$10.00,$10.02,0.20%
+10/02/25,CBK,"Commercial Bancgroup, Inc.",$24.00,$24.75,3.13%
+10/03/25,AIIA,AI Infrastructure Acquisition Corp.,$10.00,$9.93,-0.70%
+10/03/25,CCHH,CCH Holdings Ltd,$4.00,$15.12,278.00%
+10/03/25,RNGT,Range Capital Acquisition Corp II,$10.00,$10.00,-
+10/06/25,GIW,GigCapital8 Corp.,$10.00,$9.89,-1.10%
+10/07/25,LKSP,Lake Superior Acquisition Corp.,$10.00,$9.93,-0.70%
+10/08/25,POM,Pomdoctor Limited,$4.00,$0.38,-90.39%
+10/09/25,ALH,Alliance Laundry Holdings Inc.,$22.00,$22.42,1.91%
+10/09/25,LFS,"Leifras Co., Ltd.",$4.00,$4.07,1.75%
+10/09/25,PXED,"Phoenix Education Partners, Inc.",$32.00,$32.95,2.97%
+10/09/25,YDDL,One and one Green Technologies. Inc,$5.00,$5.07,1.40%
+10/14/25,RPGL,Republic Power Group Limited,$4.00,$0.56,-86.09%
+10/15/25,SLGB,Smart Logistics Global Limited,$5.00,$1.62,-67.60%
+10/15/25,TCGL,TechCreate Group Ltd.,$4.00,$5.47,36.75%
+10/17/25,ACCL,Acco Group Holdings Limited,$4.00,$3.85,-3.75%
+10/21/25,AHMA,Ambitions Enterprise Management Co. L.L.C,$4.00,$6.79,69.75%
+10/21/25,BGIN,Bgin Blockchain Limited,$6.00,$3.17,-47.17%
+10/21/25,MCTA,Charming Medical Limited,$4.00,$29.36,633.88%
+10/22/25,AGCC,Agencia Comercial Spirits Ltd,$4.00,$10.45,161.25%
+10/22/25,ALIS,Calisa Acquisition Corp,$10.00,$10.25,2.50%
+10/22/25,NPT,Texxon Holding Limited,$5.00,$4.65,-7.00%
+10/23/25,HAVA,Harvard Ave Acquisition Corporation,$10.00,$10.03,0.25%
+10/23/25,MMTX,Miluna Acquisition Corp,$10.00,$10.01,0.05%
+10/24/25,LAFA,LaFayette Acquisition Corp.,$10.00,$10.12,1.20%
+10/27/25,MPLT,"MapLight Therapeutics, Inc.",$17.00,$20.08,18.12%
+10/28/25,APXT,Apex Treasury Corporation,$10.00,$10.02,0.20%
+10/29/25,DYOR,Insight Digital Partners II,$10.00,$10.06,0.60%
+10/30/25,DNMX,Dynamix Corporation III,$10.00,$10.10,1.00%
+10/30/25,NAVN,"Navan, Inc.",$25.00,$13.92,-44.32%
+10/31/25,VACI,Viking Acquisition Corp. I,$10.00,$10.18,1.83%
+11/04/25,BETA,"BETA Technologies, Inc.",$34.00,$31.39,-7.68%
+11/04/25,CEPV,"Cantor Equity Partners V, Inc.",$10.00,$10.25,2.50%
+11/04/25,WSTN,Westin Acquisition Corp,$10.00,$10.02,0.20%
+11/05/25,ELWT,"Elauwit Connection, Inc.",$9.00,$6.26,-30.44%
+11/05/25,XZO,"Exzeo Group, Inc.",$21.00,$19.94,-5.05%
+11/06/25,AERO,"Grupo Aeroméxico, S.A.B. de C.V.",$19.00,$18.05,-5.00%
+11/06/25,BLLN,"BillionToOne, Inc.",$60.00,$97.44,62.40%
+11/06/25,EVMN,"Evommune, Inc.",$16.00,$19.69,23.06%
+11/07/25,CRAC,Crown Reserve Acquisition Corp. I,$10.00,$10.12,1.20%
+11/07/25,TDWD,Tailwind 2.0 Acquisition Corp.,$10.00,$10.01,0.10%
+11/11/25,EVOX,Evolution Global Acquisition Corp,$10.00,$10.06,0.60%
+11/12/25,BPAC,Blueport Acquisition Ltd,$10.00,$10.06,0.60%
+11/13/25,OTH,Off The Hook YS Inc.,$4.00,$2.97,-25.75%
+11/13/25,POAS,Phaos Technology Holdings (Cayman) Limited,$4.00,$3.72,-7.00%
+11/19/25,GLOO,"Gloo Holdings, Inc.",$8.00,$6.50,-18.75%
+11/21/25,HCAC,Hall Chadwick Acquisition Corp.,$10.00,$10.03,0.30%
+11/25/25,IGAC,Invest Green Acquisition Corporation,$10.00,$10.02,0.20%
+11/26/25,SCII,SC II Acquisition Corp.,$10.00,$10.06,0.60%
+12/02/25,BIXI,Bitcoin Infrastructure Acquisition Corp Ltd.,$10.00,$10.01,0.10%
+12/03/25,GPAC,General Purpose Acquisition Corp.,$10.00,$10.00,-
+12/03/25,PARK,"Park Dental Partners, Inc.",$13.00,$14.06,8.15%
+12/03/25,SBXE,SilverBox Corp V,$10.00,$10.10,1.00%
+12/04/25,AEAQ,Activate Energy Acquisition Corp.,$10.00,$10.02,0.20%
+12/04/25,NWAX,New America Acquisition I Corp.,$10.00,$10.27,2.70%
+12/04/25,RGNT,Regentis Biomaterials Ltd.,$8.00,$7.14,-10.75%
+12/04/25,SAC,Safeguard Acquisition Corp.,$10.00,$10.12,1.20%
+12/04/25,SMJF,SMJ International Holdings Inc.,$4.00,$4.45,11.25%
+12/05/25,LFAC,Leapfrog Acquisition Corporation,$10.00,$10.03,0.25%
+12/09/25,DSAC,Daedalus Special Acquisition Corp.,$10.00,$10.05,0.50%
+12/10/25,CDNL,Cardinal Infrastructure Group Inc.,$21.00,$25.31,20.52%
+12/10/25,JMG,JM Group Limited,$4.00,$4.56,14.00%
+12/10/25,MESH,Meshflow Acquisition Corp.,$10.00,$10.00,-
+12/11/25,BLRK,Bluerock Acquisition Corp.,$10.00,$10.00,-
+12/11/25,KBON,Karbon Capital Partners Corp.,$10.00,$10.05,0.50%
+12/11/25,LMRI,"Lumexa Imaging Holdings, Inc.",$18.50,$18.52,0.11%

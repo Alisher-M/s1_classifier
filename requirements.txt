@@ -1,0 +1,7 @@
+pandas
+yfinance
+sec-edgar-downloader==5.0.3
+razdel
+nltk
+pymorphy3
+scikit-learn
